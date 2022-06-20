@@ -1,0 +1,35 @@
+.header {
+    /* padding-left: 30px; */
+    text-align: center;
+    font-size: 2em;
+  }
+  .form {
+    text-align: center;
+    padding-left: 20px;
+    width: 100%;
+    margin-bottom: 20px;
+  }
+
+  .headerContainer{
+    width: 100%;
+    padding: 20px;
+  }
+
+  .todotext {
+    margin-right: 8px;
+    padding: 10px;
+    width: 50%;
+    border-radius: 3px;
+    outline: none;
+  }
+.btnAdd {
+    background: rgb(61, 86, 114);
+    border-radius: 3px;
+    width: 15%;
+    padding: 12px;
+    font-size: 0.9em;
+    text-transform: uppercase;
+    color: #ffffff;
+    cursor: pointer;
+    font-weight: 600;
+  }

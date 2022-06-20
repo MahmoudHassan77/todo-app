@@ -1,0 +1,29 @@
+.taskContainer{
+    display: "flex";
+    align-items: "center";
+    justify-content: space-between;
+    list-style: none;
+    padding: 20px;
+    width: 50%;
+}
+
+
+.title {
+    font-size: 1.3em;
+    letter-spacing: 1px;
+    padding: 10px;
+  }
+  .checked {
+    text-decoration: line-through;
+  }
+ .delBtn{
+    background: rgb(61, 86, 114);
+    border-radius: 3px;
+    width: 5rem;
+    padding: 12px;
+    font-size: 0.9em;
+    text-transform: uppercase;
+    color: #ffffff;
+    cursor: pointer;
+    font-weight: 600;
+ }
